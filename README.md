@@ -38,6 +38,6 @@
 - Work on Home Page - ' useNavigate()' from 'react-router-dom'
 - Work on Login Page - Axios - Make a post request and login user.
 - Setup AuthContext, Save token in AuthContext, Implement Login and Logout functionality in application
-- Setup the Private Routing
+- Setup the Private Routes or Protected Routes
 
 ## Backend
