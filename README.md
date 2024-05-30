@@ -40,4 +40,8 @@
 - Setup AuthContext, Save token in AuthContext, Implement Login and Logout functionality in application
 - Setup the Private Routes or Protected Routes
 
+# 4
+
+- Tickets Listing Page completed with sort, filter functionality
+
 ## Backend

@@ -1,0 +1,124 @@
+{
+  "tickets": [
+    {
+      "id": 1,
+      "title": "Homepage Redesign",
+      "description": "Update the homepage with a new layout and improved navigation.",
+      "assignee": "Alice Johnson",
+      "status": "Progress",
+      "priority": 7
+    },
+    {
+      "id": 2,
+      "title": "Mobile Optimization",
+      "description": "Ensure the website is fully optimized for mobile devices.",
+      "assignee": "Bob Smith",
+      "status": "Pending",
+      "priority": 3
+    },
+    {
+      "id": 3,
+      "title": "SEO Improvements",
+      "description": "Implement SEO best practices across all pages.",
+      "assignee": "Catherine Lee",
+      "status": "Completed",
+      "priority": 1
+    },
+    {
+      "id": 4,
+      "title": "Contact Form Integration",
+      "description": "Add a new contact form with backend integration.",
+      "assignee": "David Brown",
+      "status": "Completed",
+      "priority": 14
+    },
+    {
+      "id": 5,
+      "title": "E-commerce Functionality",
+      "description": "Develop and integrate e-commerce functionality for product sales.",
+      "assignee": "Emma Wilson",
+      "status": "Pending",
+      "priority": 6
+    },
+    {
+      "id": 6,
+      "title": "Content Migration",
+      "description": "Migrate existing content to the new CMS platform.",
+      "assignee": "Frank Green",
+      "status": "Progress",
+      "priority": 11
+    },
+    {
+      "id": 7,
+      "title": "Bug Fixes",
+      "description": "Address and resolve various bugs reported by users.",
+      "assignee": "Grace Davis",
+      "status": "Completed",
+      "priority": 15
+    },
+    {
+      "id": 8,
+      "title": "User Testing",
+      "description": "Conduct user testing sessions and gather feedback for improvements.",
+      "assignee": "Hannah Miller",
+      "status": "Pending",
+      "priority": 2
+    },
+    {
+      "id": 9,
+      "title": "Performance Optimization",
+      "description": "Optimize the website for faster load times and better performance.",
+      "assignee": "Isaac White",
+      "status": "Progress",
+      "priority": 10
+    },
+    {
+      "id": 10,
+      "title": "New Blog Section",
+      "description": "Create and implement a new blog section with categories and tags.",
+      "assignee": "Jane Thompson",
+      "status": "Completed",
+      "priority": 4
+    },
+    {
+      "id": 11,
+      "title": "Social Media Integration",
+      "description": "Integrate social media feeds and sharing buttons.",
+      "assignee": "Kevin Harris",
+      "status": "Progress",
+      "priority": 5
+    },
+    {
+      "id": 12,
+      "title": "Accessibility Enhancements",
+      "description": "Ensure the website meets all accessibility standards.",
+      "assignee": "Linda Clark",
+      "status": "Pending",
+      "priority": 13
+    },
+    {
+      "id": 13,
+      "title": "Newsletter Signup",
+      "description": "Add a newsletter signup form and integrate with email marketing tool.",
+      "assignee": "Michael Lewis",
+      "status": "Pending",
+      "priority": 9
+    },
+    {
+      "id": 14,
+      "title": "Analytics Setup",
+      "description": "Set up and configure Google Analytics for website traffic monitoring.",
+      "assignee": "Natalie Walker",
+      "status": "Progress",
+      "priority": 12
+    },
+    {
+      "id": 15,
+      "title": "Landing Page for Campaign",
+      "description": "Design and develop a landing page for the upcoming marketing campaign.",
+      "assignee": "Oliver King",
+      "status": "Pending",
+      "priority": 8
+    }
+  ]
+}
